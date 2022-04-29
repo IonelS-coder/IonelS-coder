@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IonelS-coder
-- 👀 I’m mostly interested in Geoscience related coding
+- 👀 I’m mostly interested in Data Science, Geoscience related coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Analysis Projects
+- 💞️ I’m looking to collaborate on Data Science/ Analysis Projects
 - 📫 You can reach me over e-mail at ischeul@gmail.com
 
 <!---
