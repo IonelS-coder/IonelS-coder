@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ionel and I come from a Geoscience Background, but also with experience in interpreting, startups, etc.
+- 👋 Hi, I am @Ionel and I come from a Geoscience Background, but also with experience in interpreting, startups, etc.
 - 👀 I’m very curious and passionate about Data Science, Machine Learning, and many more.
 - 🌱 I am a recently graduate of the @Spiced Academy Data Sciene Bootcamp (August 2022).
 - 💞️ I’m looking to collaborate on Data Science/ Analysis & Machine Learning Projects and not only.
